@@ -13,7 +13,7 @@ root: /
 permalink: :name.html
 permalink_defaults:
 pretty_urls:
-  trailing_index: false
+  trailing_index: true
   trailing_html: true
 
 # Directory
